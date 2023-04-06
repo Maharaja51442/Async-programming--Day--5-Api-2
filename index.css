@@ -1,0 +1,19 @@
+h1{
+
+    text-align: center;
+}
+.containerDiv{
+    text-align: center;
+
+} 
+table{
+    border-collapse: collapse;
+    border:1px solid black;
+    width: 30%;
+    margin: 20px auto;
+}
+table td, table th {
+    border: 1px solid black;
+  }
+
+  
